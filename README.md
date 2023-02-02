@@ -19,7 +19,6 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 * [✅] Users can use the nav bar at the top of the page to get to the Our Game section quickly.
-* [✅] Users can use the nav bar at the top of the page to get to the Our Game section quickly.
 
 ## Video Walkthrough
 
