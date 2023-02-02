@@ -37,6 +37,8 @@ GIF created with Gifski
 
 Describe any challenges encountered while building the app.
 
+In Challenge 3, I met some trouble in DOM manipulation. I reviewed the materials in this tutorials and find some examples online, then it was encountered.
+
 ## License
 
     Copyright [2023] [Peng Chang]
